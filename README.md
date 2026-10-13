@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Nesto Tatenda Sowa 👋
+- 🎓 BCSE 1st Year, Invertis University Bareilly
+- 💻 Skills: Java, HTML, CSS, JavaScript
+- 🌱 Learning Web Development
 
 <!--
 **sowexy/sowexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
